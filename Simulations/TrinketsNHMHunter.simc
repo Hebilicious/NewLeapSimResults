@@ -178,3 +178,5 @@ trinket2=fury_of_the_burning_sky,id=140801,bonus_id=1507/3518
 copy="IoR+FotBS-$(Profile)","$(Profile)"
 trinket1=icon_of_rot,id=140798,bonus_id=1507/3518
 trinket2=fury_of_the_burning_sky,id=140801,bonus_id=1507/3518
+
+html=../docs/Hunters.html
